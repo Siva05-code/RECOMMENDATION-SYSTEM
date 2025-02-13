@@ -3,7 +3,7 @@
 *COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*: SIVAKARTHICK B
-I
+
 *INTERN ID*: : CT08FYO
 
 *DOMAIN*: MACHINE LEARNING
@@ -75,4 +75,8 @@ This movie recommendation system has a wide range of applications across various
 ---
 ### **Conclusion**
 This project successfully demonstrates the power of recommendation systems using **machine learning and natural language processing** techniques. By combining **content-based filtering** and **collaborative filtering**, the system provides both personalized and relevant movie recommendations to users. The integration of **TF-IDF, cosine similarity, and SVD** ensures an efficient and accurate recommendation process. The methodology used in this project can be extended to other domains beyond movies, making it a versatile and valuable implementation.
+
+
+### **Output**
+
 

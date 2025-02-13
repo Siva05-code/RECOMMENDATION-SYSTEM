@@ -80,3 +80,4 @@ This project successfully demonstrates the power of recommendation systems using
 ### **Output**
 
 
+<img width="496" alt="Image" src="https://github.com/user-attachments/assets/b4524e77-8846-405c-a7fa-155230a11995" />
